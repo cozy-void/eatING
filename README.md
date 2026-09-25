@@ -64,6 +64,9 @@ Students can browse the menu, place pickup or delivery orders, pay (cash / digit
 ### User profile
 ![User profile](screenshots/user-profile.png)
 
+### Create account
+![Create account](screenshots/create-account.png))
+
 
 ## Tech stack
 
