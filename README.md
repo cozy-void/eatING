@@ -47,7 +47,7 @@ Students can browse the menu, place pickup or delivery orders, pay (cash / digit
 ## Screenshots
 
 ### Landing
-![Landing](docs/screenshots/01-landing.png)
+![Landing](docs/screenshots/Landing.png)
 
 ### Student menu
 ![Student menu](docs/screenshots/02-student-menu.png)
