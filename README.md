@@ -47,19 +47,19 @@ Students can browse the menu, place pickup or delivery orders, pay (cash / digit
 ## Screenshots
 
 ### Landing
-![Landing](docs/screenshots/Landing.png)
+![Landing](screenshots/Landing.png)
 
 ### Student menu
-![Student menu](screenshots/Landing.png)
+![Student menu](screenshots/Student-menu.png)
 
 ### Checkout
-![Checkout](docs/screenshots/03-cart-checkout.png)
+![Checkout](screenshots/check-out.png)
 
 ### Order tracking
-![Tracking](docs/screenshots/04-order-tracking.png)
+![Tracking](screenshots/Track-order.png)
 
 ### Staff orders
-![Staff orders](docs/screenshots/06-staff-orders.png)
+![Staff orders](screenshots/Track-order.png)
 
 *(Add the rest of the images in `docs/screenshots/` and link them the same way.)*
 
