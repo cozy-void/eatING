@@ -82,7 +82,7 @@ Students can browse the menu, place pickup or delivery orders, pay (cash / digit
 ### Setup
 
 ```bash
-git clone https://github.com/USERNAME/eatING.git
+git clone https://github.com/cozy-void/eatING.git
 cd eatING
 npm install
 cp .env.example .env
