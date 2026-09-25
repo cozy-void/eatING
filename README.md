@@ -67,6 +67,27 @@ Students can browse the menu, place pickup or delivery orders, pay (cash / digit
 ### Create account
 ![Create account](screenshots/create-account.png))
 
+---
+
+## Demo logins
+
+### Student portal
+
+| Account | Password |
+|---------|----------|
+| `student1@ingcollege.edu` | `Student1` |
+| `student2@ingcollege.edu` | `Student2` |
+| `student3@ingcollege.edu` | `Student3` |
+
+### Staff portal
+
+| Account | Password |
+|---------|----------|
+| `staff1@ing.edu.np` | `Withdraw1!` |
+| `staff2@ing.edu.np` | `Withdraw1!` |
+
+> These are **demo credentials** for Innovation Week. Do not use real personal passwords in a public repo.
+
 
 ## Tech stack
 
