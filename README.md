@@ -59,11 +59,11 @@ Students can browse the menu, place pickup or delivery orders, pay (cash / digit
 ![Tracking](screenshots/Track-order.png)
 
 ### Staff orders
-![Staff orders](screenshots/Track-order.png)
+![Staff orders](screenshots/Staff-orders.png)
 
-*(Add the rest of the images in `docs/screenshots/` and link them the same way.)*
+### User profile
+![User profile](screenshots/user-profile.png)
 
----
 
 ## Tech stack
 
